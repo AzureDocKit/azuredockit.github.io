@@ -1,6 +1,6 @@
 {
   "name": "Azuredockit.GitHub.io",
   "tagline": "",
-  "body": "---\r\ntitle: This will be used as the title-tag of the page head\r\n---\r\n\r\n# This is a H1\r\n\r\n[the clickable text](http://xlson.com/)\r\n\r\n* Bullet lists are also easy to create\r\n* One more\r\n",
+  "body": "---\r\ntitle: This will be used as the title-tag of the page head\r\n---\r\n\r\n# This is a H2\r\n\r\n[the clickable text](http://xlson.com/)\r\n\r\n* Bullet lists are also easy to create\r\n* One more\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
