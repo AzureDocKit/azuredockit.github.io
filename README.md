@@ -2,7 +2,7 @@
 title: This will be used as the title-tag of the page head
 ---
 
-# This is a H2
+# This is a H3
 
 [the clickable text](http://xlson.com/)
 
