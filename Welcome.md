@@ -1,3 +1,7 @@
+---
+title: Welcome Page
+layout: index
+---
 # Welcome Page
 
 When you navigate to the Azure DocKit generation portal, you will be first asked to enter the Name of the Tenant. 
