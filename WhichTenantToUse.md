@@ -9,7 +9,7 @@ When you navigate to the Azure DocKit generation portal, you will be first asked
 If you have access to an Azure Subscription with a Microsoft Account or with an Azure AD Account, it means that **there is an Azure AD** attached to the subscription.
 In Azure, when you connect to the management portal, you can see multiple Azure Active Directories that are all the Directories you have access to:
 
-![HomePage](http://azuredockitwebsite.azurewebsites.net/wp-content/uploads/2016/05/ADK_AADTEnant-1024x452.png)
+![HomePage](http://azuredockitwebsite.azurewebsites.net/wp-content/uploads/2016/08/ADKNewLookTenant.png)
 
 Even if your account is in multiple Active Directory, it is mandatory that you use the Active Directory that is associated to the subscription that you want to document. Note that there is **only one** Active directory that is associated to the subscription.
 In order to find the directory, you can click on the settings menu and you will find the directory to use in the Directory column:
