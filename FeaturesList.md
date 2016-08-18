@@ -2,7 +2,7 @@
 title: Features
 layout: index
 ---
-#Features
+# Features
 
 *This section is still under construction.*
 
