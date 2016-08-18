@@ -4,7 +4,7 @@ layout: index
 ---
 # Frequently Asked Questions
 
-* What should I enter in the Tenant name to log into Azure DocKit.
+* **What should I enter in the Tenant name to log into Azure DocKit.**
   * Have a look at http://www.azuredockit.com/2016/05/19/what-tenant-should-i-use-to-generate-documentation-using-azure-dockit/
 
 * Does Azure DocKit supports ARM and Classic ?
