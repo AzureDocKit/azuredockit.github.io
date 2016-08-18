@@ -1,8 +1,8 @@
 ---
-title: Settings
+title: Options
 layout: index
 ---
-# Settings Page
+# Options
 
 The settings are divided in the following sections:
 
