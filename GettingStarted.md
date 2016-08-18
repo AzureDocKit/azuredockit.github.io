@@ -8,7 +8,7 @@ In this short tutorial, we will generate a documentation of your Azure subscript
 
 First, navigate to https://generate.azuredockit.com 
 
-Enter the name of your Azure Active Directory Tenant for the authentication (typically yourcompany.com or yourcompany.onmicrosoft.com). *If you do not know the name of the tenant, please refer to XXXXXXX*
+Enter the name of your Azure Active Directory Tenant for the authentication (typically yourcompany.com or yourcompany.onmicrosoft.com). *If you do not know the name of the tenant, please refer to the page [Which Tenant To Use](https://azuredockit.github.io/WhichTenantToUse)*
 
 For now, do not check the checkbox.
 
