@@ -4,7 +4,7 @@ layout: index
 ---
 # Options
 
-The settings are divided in the following sections:
+The options are divided in the following sections:
 
 * Azure Workloads
 * Document
@@ -99,6 +99,7 @@ For Standard, you need to enter the following information:
 ### EA
 
 For EA, you need to enter the following information:
+
 * EA Enrollment Number : When you enroll Azure to your EA you get an Enrollment Number. It’s the enrollment that will be invoiced for the total consumption. In order to find this EA Number, you can log into https://ea.azure.com and you will find it in the upper right corner. The expected format is *51249564*
 * EA Billing API Key : This is the API Key require so that Azure DocKit can authenticate to the billing API. To generate that key, you must log into https://ea.azure.com and navigate in the section Usage API AccessKey. The expected format is *ey.......*
 * Use this tag to generate a billing report : Enter the tag used to organize your billing
@@ -192,4 +193,4 @@ This section has the following settings:
 
 This section has the following settings: 
 
-*Enable advanced logging (decrease performance) : Activate when you are in troubleshooting mode when in communication with Azure DocKit support team
+* Enable advanced logging (decrease performance) : Activate when you are in troubleshooting mode when in communication with Azure DocKit support team
