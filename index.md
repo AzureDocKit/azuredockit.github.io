@@ -14,6 +14,6 @@ This website objective is to help you use Azure DocKit. It is divided in the fol
 
 * [Getting Started](/GettingStarted)
 * Features
-* Options
-* FAQ
-* Troubleshooting
+* [Options](/Options)
+* [FAQ](/FAQ)
+* [Troubleshooting](/Troubleshooting)
