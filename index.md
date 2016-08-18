@@ -13,7 +13,7 @@ Azure DocKit comes with a Word-Add In to enter your own documentation so that it
 This website objective is to help you use Azure DocKit. It is divided in the following sections:
 
 * [Getting Started](/GettingStarted)
-* [Features](/Features)
+* [Features](/FeaturesList)
 * [Options](/Options)
 * [FAQ](/FAQ)
 * [Troubleshooting](/Troubleshooting)
