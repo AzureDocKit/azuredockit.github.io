@@ -4,7 +4,7 @@ layout: index
 ---
 # Troubleshooting
 
-** Before starting any troubleshooting, you need to logout from the Azure management portals (https://manage.windowsazure.com and https://portal.azure.com) and go back to Azure DocKit in private mode. Indeed, most of the issues are due to the fact that wrong credentials are used when trying to Sign In into Azure DocKit **
+**Before starting any troubleshooting, you need to logout from the Azure management portals (https://manage.windowsazure.com and https://portal.azure.com) and go back to Azure DocKit in private mode. Indeed, most of the issues are due to the fact that wrong credentials are used when trying to Sign In into Azure DocKit.**
 
 * **When I Sign In into Azure DocKit, the list of subscriptions is emtpy.**
   * If you do not see any subscription in the drop down list, it means that you do not have access to any subscription. To ensure that you have access to at least one subscription, you can connect to https://manage.windowsazure.com and https://portal.azure.com. If you do not see any subscription in those 2 portals it means that you have not the required access.
