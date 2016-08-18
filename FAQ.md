@@ -23,7 +23,7 @@ layout: index
   * You can refer to [this page](http://www.azuredockit.com/2016/05/02/azure-dockit-now-supports-document-generation-without-administrator-privileges/) to have more details
 
 * **Is there a Trial Version of Azure DocKit that I can use ?**
-  * Yes, just go to [Azure DocKit Generation Portal](https//generate.azuredockit.com) and Sign In. It will detect that you have no license and it will automatically bring you to the Trial Mode. Note that some content will be removed as you are in Trial
+  * Yes, just go to [Azure DocKit Generation Portal](https://generate.azuredockit.com) and Sign In. It will detect that you have no license and it will automatically bring you to the Trial Mode. Note that some content will be removed as you are in Trial
   * You can also check our [Web Site](http://www.azuredockit.com) in the Example section
 
 * **How can I track the changes between two documents generation ?**
