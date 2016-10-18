@@ -35,3 +35,8 @@ layout: index
 * **The first question being asked is the tenant name. What should I enter in this.**
   * Have a look at http://www.azuredockit.com/2016/05/19/what-tenant-should-i-use-to-generate-documentation-using-azure-dockit/
   * It will give you all the details on how to find which tenant to use
+
+* **When I try to log in to Azure DocKit, I get the error AADTSTS900093 : Does not have access to consent**
+  * This means that the Azure Active Directory Global Administrator has explicitely prevented users to use 3rd Party Application.
+  * You can confirm that by going in the Azure Active Directory Blade (on portal.azure.com), and then select User Settings. If Users can allows apps to access their data is set to No, it means that the Azure Active Directory Global Administrator has explicitely prevented users to use 3rd Party Application.
+  * You have two options : Change this settings to allow users to use Azure DocKit or Ask an Azure Global Administrator to generate the documentation using Azure DocKit
