@@ -58,7 +58,7 @@ Now that you have made the hard work, it’s time to use the template to generat
 Then click Generate!
 ***Warnings***
 
-**
+** 
 Changing the Template can result in a generated document that is corrupted, so please ensure you read this: 
 * Always update the Table of Content before saving the document 
 * Proceed to small changes and try to generate the document and do other changes to ensure that you haven’t made any change that corrupt the document 
