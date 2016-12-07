@@ -7,7 +7,7 @@ layout: index
 
 Azure DocKit gives you the ability to generate detailed documentation of everything you have in your Azure Subscription. The generated document gives you plenty of information and also rich Visio Diagrams. Would it be nice if you could control the output document that is generated for you? Change your logo, add text, remove sections, change colors…. You can do all that. Let’s see how.
 
-First step is to get the template document. You can download it from [here](generate.azuredockit.com/templates/AzureTemplate_Full.docx)
+First step is to get the template document. You can download it from [here](https://generate.azuredockit.com/templates/AzureTemplate_Full.docx)
 
 Once you have open the document, you need to ensure that you can see the Developer Tab:
 ![Developer Tab](http://azuredockitwebsite.azurewebsites.net/wp-content/uploads/2016/03/032216_1514_CreateAzure1.png)
