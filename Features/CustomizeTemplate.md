@@ -6,7 +6,9 @@ layout: index
 # Create Azure Documentation with your own template
 
 Azure DocKit gives you the ability to generate detailed documentation of everything you have in your Azure Subscription. The generated document gives you plenty of information and also rich Visio Diagrams. Would it be nice if you could control the output document that is generated for you? Change your logo, add text, remove sections, change colors…. You can do all that. Let’s see how.
-First step is to get the template document. You can contact us and we will send you the document.
+
+First step is to get the template document. You can download it from [here](generate.azuredockit.com/templates/AzureTemplate_Full.docx)
+
 Once you have open the document, you need to ensure that you can see the Developer Tab:
 ![Developer Tab](http://azuredockitwebsite.azurewebsites.net/wp-content/uploads/2016/03/032216_1514_CreateAzure1.png)
  
@@ -58,9 +60,9 @@ Then click Generate!
 
 **
 Changing the Template can result in a generated document that is corrupted, so please ensure you read this: 
-*Always update the Table of Content before saving the document 
-*Proceed to small changes and try to generate the document and do other changes to ensure that you haven’t made any change that corrupt the document 
-*Do not modify the structure of the document (like removing Content Control that are Placeholders) 
-*Once you have changed the template, you will not get the new template stuffs so our advice is to keep the personalization minimal so that you can easily redo it if we provide a new template. 
+* Always update the Table of Content before saving the document 
+* Proceed to small changes and try to generate the document and do other changes to ensure that you haven’t made any change that corrupt the document 
+* Do not modify the structure of the document (like removing Content Control that are Placeholders) 
+* Once you have changed the template, you will not get the new template stuffs so our advice is to keep the personalization minimal so that you can easily redo it if we provide a new template. 
 **
 
